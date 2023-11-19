@@ -15,6 +15,6 @@ The version maintained in this repository may be slightly out-of-sync with the v
 |Translator |Hill Repp
 |Publisher |Project Gutenberg, Urbana, Illinois, USA., 2023-11-13
 |Publication date |2023-11-13
-|Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net]. This book is a translation from the Norwegian of Klosteret i Petschenga: skildringer fra russisk Lapland (Efter historiske kilder og folkesagn), which appeared in Kristiana (now Oslo) in 1884.
+|Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net]. This book is a translation from the Norwegian of Klosteret i Petschenga: skildringer fra russisk Lapland (Efter historiske kilder og folkesagn), which appeared in Kristiania (now Oslo) in 1884.
 |PG Ebook Number |https://www.gutenberg.org/ebooks/72118[72118]
 |===
